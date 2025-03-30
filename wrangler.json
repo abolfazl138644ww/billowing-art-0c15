@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "billowing-art-0c15",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c13aec0b-0aee-415d-a1c1-6ee5a9fe9268",
+      "database_name": "billowing-art-0c15-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
